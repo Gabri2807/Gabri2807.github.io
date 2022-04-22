@@ -398,7 +398,7 @@ left: 45%;
 
     .detel h1{
         font-size: 40px;
-        padding: 110px;
+        padding: 150px;
         text-align: center;
     }
 
@@ -408,7 +408,7 @@ left: 45%;
     }
 
     nav ul li{
-        display:inline;
+        display: start;
     }
    
     .box{
