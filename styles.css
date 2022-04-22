@@ -316,6 +316,10 @@ left: 45%;
         font-size: 25px;
         padding: 80px;
     }
+    
+    .navbar{
+        width: 100%;
+    }
 
     nav{
         font-size: 18px;
@@ -324,6 +328,8 @@ left: 45%;
 
     nav ul li{
         display: flex;
+        bottom: 10px;
+        justify-content: end;
     }
    
     .box{
